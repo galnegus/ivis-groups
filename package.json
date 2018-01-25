@@ -1,0 +1,23 @@
+{
+  "name": "ivis-groups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galnegus/ivis-groups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galnegus/ivis-groups/issues"
+  },
+  "homepage": "https://github.com/galnegus/ivis-groups#readme"
+}
