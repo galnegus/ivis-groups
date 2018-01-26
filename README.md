@@ -1,6 +1,6 @@
 # ivis-groups
 
-> A Vue.js project
+Check it out: https://galnegus.github.io/ivis-groups/
 
 ## Build Setup
 
